@@ -1,2 +1,1 @@
-# tinDog
-tinDog Website With CSS and Bootstrap
+TinDog Starting Files
