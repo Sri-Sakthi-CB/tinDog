@@ -1,10 +1,10 @@
 TINDOG :
 
---> This is a website made using HTML , CSS and Bootstrap
+- This is a website made using HTML , CSS and Bootstrap
 
---> The idea behind the Website is It's a crazy website that acts like Tinder for Pets 
+- The idea behind the Website is It's a crazy website that acts like Tinder for Pets 
 
---> This is Implemented using the Features of the Bootstrap
+- This is Implemented using the Features of the Bootstrap
 
 
 URL:  https://sri-sakthi-cb.github.io/tinDog/
